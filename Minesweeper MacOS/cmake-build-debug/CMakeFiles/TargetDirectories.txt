@@ -1,0 +1,3 @@
+/Users/anthonyperez/CLionProjects/MinesweeperExample/cmake-build-debug/CMakeFiles/MinesweeperExample.dir
+/Users/anthonyperez/CLionProjects/MinesweeperExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anthonyperez/CLionProjects/MinesweeperExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
