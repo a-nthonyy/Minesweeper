@@ -1,4 +1,4 @@
-These projects are mine and mine alone. If there is any form of plagiarism enacted based on my original work, I will not be afraid take action in order to defend my self-image and personal integrity. 
+These projects are mine and mine alone. If there is any form of plagiarism is enacted based on my original work, I will not be afraid take action in order to defend my self-image and personal integrity. 
 
 
 NOTE:
